@@ -1,0 +1,2 @@
+# bergwm
+Wordlist Maker Tool
