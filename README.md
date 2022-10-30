@@ -8,8 +8,8 @@ This program makes a wordlist with all possible words of the specified site
   
 --- 
  
-<img src="https://i.pinimg.com/originals/ea/10/20/ea1020b019db82eb22b339fa9bf8c37b.gif" align="left" width="220px" height="450px">
-<img src="https://i.pinimg.com/originals/ea/10/20/ea1020b019db82eb22b339fa9bf8c37b.gif" align="right" width="220px" height="450px">
+<img src="https://i.pinimg.com/originals/ea/10/20/ea1020b019db82eb22b339fa9bf8c37b.gif" align="left" width="200px" height="450px">
+<img src="https://i.pinimg.com/originals/ea/10/20/ea1020b019db82eb22b339fa9bf8c37b.gif" align="right" width="200px" height="450px">
  
 ## Installation
 </div>
