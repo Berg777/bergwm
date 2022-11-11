@@ -16,16 +16,22 @@ This program makes a wordlist with all possible words of the specified site
 ## Installation
 </div>
 
-For installation here is the setup
+For installation clone the bergwm
 
  ```sh
 git clone https://github.com/berg777/bergwm
 ```
 
-After finishing the setup
+After give execution permission
  
  ```sh
-chmod 755 bergwm/setup.sh && sudo bergwm/setup.sh
+chmod 755 bergwm/bergwm.sh
+```
+
+Add to PATH
+
+```sh
+sudo cp bergwm/bergwm.sh /usr/bin/bergwm && rm -rf bergwm
 ```
 
 <div align="center">
